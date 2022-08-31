@@ -1,4 +1,4 @@
-# This is a repository just ripe for experimentation - nice
+# Clone, fork, work
 
 ## Instructions
 
