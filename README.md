@@ -14,8 +14,4 @@ Use only terminal commands for git (you can use VS Code for editing!) :^)
 7. Add/commit/push your work into your repository 
 8. Make a pull request from your GitHub repository into the original `Req/git-practice` repository
 
-## Files
-
-- req.html
-- phc.html
-- dragon-fire-fly.html
+Good luck have fun!
