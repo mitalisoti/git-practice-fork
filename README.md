@@ -17,5 +17,6 @@ Use only terminal commands for git (you can use VS Code for editing!) :^)
 ## List of files
 
 - [Req](./req.md)
+- [Mitali](./mitalisoti.md)
 
 Good luck, have fun!
